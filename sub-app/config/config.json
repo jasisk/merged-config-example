@@ -1,0 +1,9 @@
+{
+  "some": {
+    "special": {
+      "config": {
+        "child": true  
+      }
+    }  
+  }
+}

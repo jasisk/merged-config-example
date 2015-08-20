@@ -1,0 +1,15 @@
+{
+  "some": {
+    "special": {
+      "config": {
+        "parent": true  
+      }
+    }  
+  },
+  "middleware": {
+    "sub": {
+      "route": "/sub",
+      "module": "sub-app"  
+    }  
+  }
+}
